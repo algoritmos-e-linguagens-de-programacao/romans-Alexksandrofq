@@ -43,7 +43,4 @@ def roman_to_int(s):
             i += 1
     return total 
 
-num = int(input("Digitar Número: "))
-print (int_to_roman(num))
-s = (input("Digitar Número Romano: "))
-print (roman_to_int(s))
+
